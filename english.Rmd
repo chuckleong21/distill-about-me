@@ -311,5 +311,10 @@ tippy(
 content: "@chuckleong21", placement: "top", arrow: false, animation: "scale"
 });
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+const title = document.querySelector("a.title");
+title.textContent = "About Me";
+});
 ```
 
