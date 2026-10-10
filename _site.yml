@@ -1,5 +1,6 @@
 name: "."
 title: "关于我"
+favicon: images/favicon.ico
 description: |
   关于我
 output_dir: "docs"
