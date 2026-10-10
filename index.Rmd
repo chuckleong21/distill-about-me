@@ -5,7 +5,7 @@ links:
   - label: <i class="fa-solid fa-phone"></i>
   - label: <i class="fa-brands fa-weixin"></i>
   - label: <i class="fa-brands fa-github"></i>
-    url: "https://github.com/chuckleong21"
+    url: "https://github.com/chuckleong21/distill-about-me"
   - label: <i class="fa-solid fa-envelope"></i>
     url: "mailto:18520199081@163.com"
 output:
