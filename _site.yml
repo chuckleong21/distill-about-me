@@ -6,6 +6,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "中文"
       href: index.html
+    - text: "English"
+      href: english.html
 output: distill::distill_article

@@ -1,0 +1,315 @@
+---
+title: "Chuck Leong"
+image: "formal.jpg"
+links:
+  - label: <i class="fa-solid fa-phone"></i>
+  - label: <i class="fa-brands fa-weixin"></i>
+  - label: <i class="fa-brands fa-github"></i>
+    url: "https://github.com/chuckleong21"
+  - label: <i class="fa-solid fa-envelope"></i>
+    url: "mailto:chuckleong21@gmail.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+```{r, global, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(htmltools)
+# tags$link(rel = "preconnect", href = "https://fonts.googleapi.com")
+# tags$link(rel = "preconnect", href = "https://fonts.gstatic.com", crossorgin = NULL)
+# tags$link(rel = "stylesheet", href = "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap")
+# tags$style("body {font-family: 'IBM Plex Sans JP', sans-serif;
+#   font-weight: 400;
+#   font-style: normal;}")
+```
+
+<!-- ## 个人总结 -->
+
+<!-- 持有伦敦大学政治经济学院经济与金融双学士学位，具备中、粤、英。具有一对一线上雅思教学经验，能根据学生当前成绩与目标分数设计个人化课程、整理学习资料，并持续追踪进度与家长沟通。曾协助学生掌握雅思四大考核范畴，最终达成7.0分目标。熟悉Microsoft Word、Powerpoint及Excel，擅长将复杂内容归纳为清晰、易理解的学习重点。 -->
+
+## Executive Summary
+
+A Science Bachelor degree holder in economics & finance of Politics & Economic School, University of London. Experienced in tutoring & teaching English 1 on 1 by achieving clients' academic goals through personalised course programs. Producing & Proofreading academic English learning materials while keeping track of my clients' progresses and maintaining a good client dynamic. I was able to help clients get a 7.0 IELTS score. I am skillful in using Microsoft software including Word, Excel and Powerpoint to boost my productivity. Besides English, I am also procifient in Mandarin Chinese and Cantonese.
+
+<!-- ## 教育背景 -->
+
+<!-- 2015.09-2018.06 | **经济与金融学士** | 伦敦大学经济学院 -->
+
+<!-- 2013.10-2015.04 | **工商管理大专** | 新加坡经济管理学院 -->
+
+## Education
+
+2015.09-2018.06 | **B.S. in Economics & Finance** | University of London, United Kingdom
+
+2013.10-2015.04 | **Diploma in Business Management** | Singapore Institute in Management, Singapore
+
+<!-- ## 工作经验 -->
+
+## Work Experience
+
+<!-- 2024.03-2026.03 | 英语雅思教师 -->
+
+2024.03-2026.03 | **Online IELTS Tutor**
+
+<!-- - 为 IELTS Academic/General Training考生提供线上一对一及小班授课，覆盖听、说、读、写四项技能，并根据学生基础、目标分数和考试时间制定个性化学习计划。 -->
+
+<!-- - 设计课程计划及配套教学资料，包括讲义、词汇表、语法练习、写作范文、口语题库和模拟测试。 -->
+
+<!-- - 依据 IELTS 评分标准对学生的写作和口语进行诊断、批改和反馈，帮助学生改进语法准确性、词汇使用、逻辑组织、流利度和发音。 -->
+
+<!-- - 通过阶段测评、模拟考试和学习数据跟踪，持续调整教学策略并提供课后学习指导。 -->
+
+<!-- - 帮助25名学生的英语水平**从 CEFR A1\~A2提升至B2\~C1**；指导22名 学生备考，学生平均模拟成绩**提高2.0~2.5**分。 -->
+
+<!-- - 制作4套教学资源，使学生作业完成率达到95%，课程满意度达到4/5。 -->
+
+- Teaching students IELTS Academic / General Training online in private form or in small classes, covering English skills in listening, speaking, reading and writing. Customizing teaching plans for students according to their individuals' learning ability and speed.
+
+- Designing course programs and learning materials ranging from lecture notes, vocabulary sheets, grammar exercises, comprehension writing and oral mock exams.
+
+- Diagnosing students' capability in academic writing and speaking based on IELTS evaluation criteria and giving students critical feedback in order to improve their lexical accuracy, critical thinking capacity and grammatical cohesion.
+
+- Assisted no less than 25 students improve English level from **A1\~A2** to **B2\~C1**; 22 of them managed to score **2.0 to 2.5 higher on average**.
+
+- Produced 4 sets of learning materials while keeping a assessment completion rate at **95%** and **4 stars out of 5** in satisfactory level.
+
+<!-- 2022.03-2023.11 | 跨境店铺运营  -->
+
+2022.03-2023.11 | **B2B Online Merchant Manager**
+
+<!-- ###### 广州乘风兄弟有限公司 -->
+
+###### Guangzhou Chengfeng Brother Co., Ltd.
+
+<!-- - 负责 B2B 跨境电商店铺日常运营，制作流量日报并监测曝光量、访问量、访客来源、转化率及广告投放表现。 -->
+
+<!-- - 负责商品上传及全生命周期维护，优化商品标题、关键词、图片、详情页和规格参数，确保产品信息准确、完整且符合平台规范。 -->
+
+<!-- - 建立并维护包含产品类型、尺寸、材质及技术参数的商品资料库，为业务员报价、客户沟通和销售跟进提供标准化信息支持。 -->
+
+<!-- - 根据平台活动和营销目标策划并搭建活动落地页，优化页面结构、产品卖点及询盘入口，配合公司执行线上推广活动。 -->
+
+<!-- - 基于网站流量趋势、访客行为和产品表现制定广告投放策略，监控曝光、点击、点击成本、转化率及广告投入产出，动态优化预算和投放内容。 -->
+
+<!-- - 通过优化商品信息、店铺内容及运营规范，在**1年内将店铺评级从0星提升至3星**。 -->
+
+<!-- - 活动期间实现 单月累计曝光量15,000+，并将店铺整体转化率从**0.8%提升至2.5%**，相对提升约 212.5%。 -->
+
+- Handling daily operation in online merchant by monitoring daily statistics in UV, PV, conversion rate and the rate of return in Google advertising. 
+
+- Maintaining current products' life cycle: accuracy improvement in product information, traffic keywords, product pages.
+
+- Building product databases for assisting sales department in offering quotation process and in turn improving conversion rate.
+
+- Designing & deploying merchant's landing page for promoting sales during company events' period / Alibaba events' period.
+
+- Managed to **boost the star rating** of the merchant to **3 stars from 0 stars**.
+
+- Achieved over 15000+ monthly unique views storewide and **increased 212.5%** in overall conversion rate to **2.5%** from 0.8% between ante-event & post-event period.
+
+<!-- 2021.01-2022.07 | 英语教师 -->
+
+2021.01-2022.07 | **English Tutor**
+
+<!-- ###### 广州立贤教育培训中心 -->
+
+###### Guangzhou Lixian Education & Training Centre
+
+<!-- - 面向小学及初中学生及其家长开展学习需求分析，根据学生英语基础、年级和学习目标制定个性化课程方案。 -->
+
+<!-- - 设计并编写分年级、分能力层级的教辅资料，包括词汇、语法、阅读、写作练习、阶段测试及错题复习材料。 -->
+
+<!-- - 通过分层教学、针对性辅导和阶段性测评，跟踪学生学习进度并及时调整教学内容及训练重点。 -->
+
+<!-- - 定期向家长反馈学生表现、成绩变化和待改进环节，提供课后学习建议，促进家校沟通与合作。 -->
+
+<!-- - 配合培训中心向本地小学及初中推广教辅服务、试课及优惠政策活动，协助拓展学校和家长渠道。 -->
+
+<!-- - 累计辅导超过**60**名不同年级的小学生，帮助学生考试平均分**从70分提升至90**分，平均提高**20**分。 -->
+
+<!-- - 课程满意度调查取得**4.5/5**分 平均评级。 -->
+
+- Designing & Customizing study plans in English for primary & secondary students. 
+
+- Editing and writing lecture notes / learning materials individually for students' in different school years accordingly.
+
+- Initiating mock exams and assigning students assessments in order to keeping a close eye on their learning progress.
+
+- Promoting my services to parents in the neighbourhood through the business expansion phase of the company.
+
+- Facilitated over **60** clients ranging from second graders to students in secondary 2 in achieving a **higher average score** of 90 from that of 70 before my services.
+
+<!-- ## 技能&能力 -->
+
+## Skills
+
+
+```{r, library}
+```
+
+```{r, classes}
+skill_section <- ".skills-section {
+  width: min(100%, 900px);
+  margin: 0 auto;
+  padding: 24px;
+  color: #000;
+  font-family: Arial, 'Microsoft YaHei', sans-serif;
+  box-sizing: border-box;
+}"
+
+skill_grid <- ".skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px 40px;
+}"
+
+skill_item <- ".skill-item {
+  min-width: 0;
+}"
+
+skill_name <- ".skill-name {
+  margin-bottom: 9px;
+  color: #000;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 600;
+}"
+
+progress_bar <- ".progress-bar {
+  width: 100%;
+  height: 8px;
+  overflow: hidden;
+  background-color: #e5e5e5;
+  border-radius: 0;
+}"
+
+progress_fill <- ".progress-fill {
+  display: block;
+  height: 100%;
+  background-color: #000;
+  border-radius: 0;
+}"
+
+progress_20 <- ".progress-20 {
+width: 20%;
+}"
+progress_40 <- ".progress-40 {
+width: 40%;
+}"
+progress_60 <- ".progress-60 {
+width: 60%;
+}"
+progress_80 <- ".progress-80 {
+width: 80%;
+}"
+progress_100 <- ".progress-100 {
+width: 100%;
+}"
+
+media <- "@media (max-width: 600px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .skills-section {
+    padding: 20px 16px;
+  }
+}"
+
+```
+
+```{r, skill func}
+skillItem <- function(skill, level) {
+  box::use(htmltools[tags], dplyr[case_when, between])
+  
+  # browser()
+  stopifnot(inherits(skill, "character"))
+  if (length(level) == 1 && between(level, 1, 5)) {
+    if (inherits(level, "double")) {
+      level <- as.integer(level)
+      warning("level is coerced into an integer")
+      if (!inherits(level, "integer")) {
+        stop("level expects an integer or a double")
+      }
+    }
+  } else
+    stop("level expects a single integer/double that is between 1 and 5.")
+  
+  progress_class <- case_when(
+    level == 1 ~ "progress-20",
+    level == 2 ~ "progress-40",
+    level == 3 ~ "progress-60",
+    level == 4 ~ "progress-80",
+    level == 5 ~ "progress-100",
+  )
+  
+  progress_pct <- case_when(level == 1 ~ 20,
+                            level == 2 ~ 40,
+                            level == 3 ~ 60,
+                            level == 4 ~ 80,
+                            level == 5 ~ 100)
+  
+  tags$div(
+    class = "skill-item",
+    tags$div(class = "skill-name", skill),
+    div(
+      class = "progress-bar",
+      role = "progressbar",
+      `aria-label` = skill,
+      `aria-valuenow` = progress_pct,
+      `aria-valuemin` = 0,
+      `aria-valuemax` = 100,
+      tags$span(class = paste("progress-fill", progress_class))
+    )
+  )
+}
+```
+
+
+```{r, html}
+tags$article(
+  tags$style(
+    skill_section, skill_grid, skill_item, skill_name, progress_bar, progress_fill, progress_20, progress_40, progress_60, progress_80, progress_100, media
+  ), 
+  tags$div(class = "skills-grid", 
+           skillItem("English", 5),
+           skillItem("Microsoft Excel", 5), 
+           skillItem("Mandarin Cantonese", 5), 
+           skillItem("Microsoft Word", 4), 
+           skillItem("Computer Literacy", 5), 
+           skillItem("Microsoft Powerpoint", 3))
+)
+```
+
+```{r, tippy}
+popper <- "js/popper.min.js"
+tippyjs <- "js/tippy-bundle.umd.min.js"
+tags$script(
+  src = popper
+)
+tags$script(
+  src = tippyjs
+)
+```
+```{js}
+document.addEventListener("DOMContentLoaded", function() {
+if (typeof tippy === "undefined") return;
+
+tippy(
+".list-inline-item:nth-child(1) button", {
+content: "+86 13138498590", placement: "top", arrow: false, animation: "fade"
+});
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+if (typeof tippy === "undefined") return;
+
+tippy(
+".list-inline-item:nth-child(2) button", {
+content: "@chuckleong21", placement: "top", arrow: false, animation: "scale"
+});
+});
+```
+

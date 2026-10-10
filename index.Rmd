@@ -12,20 +12,45 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
+
+```{r, global, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(htmltools)
+tags$link(rel = "preconnect", href = "https://fonts.googleapi.com")
+tags$link(rel = "preconnect", href = "https://fonts.gstatic.com", crossorgin = NULL)
+tags$link(rel = "stylesheet", href = "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap")
+tags$style("body {font-family: 'IBM Plex Sans JP', sans-serif;
+  font-weight: 400;
+  font-style: normal;}")
+```
  
 ## 个人总结
 
-持有伦敦大学政治经济学院经济与金融双学士学位，具备中、粤、英。具有一对一线上雅思教学经验，能根据学生当前成都与目标分数设计个人化课程、整理学习资料，并持续追踪进度与家长沟通。曾协助学生掌握雅思四大考核范畴，最终达成7.0分目标。熟悉Microsoft Word、Powerpoint及Excel，擅长将复杂内容归纳为清晰、易理解的学习重点。
+持有伦敦大学政治经济学院经济与金融双学士学位，具备中、粤、英。具有一对一线上雅思教学经验，能根据学生当前成绩与目标分数设计个人化课程、整理学习资料，并持续追踪进度与家长沟通。曾协助学生掌握雅思四大考核范畴，最终达成7.0分目标。熟悉Microsoft Word、Powerpoint及Excel，擅长将复杂内容归纳为清晰、易理解的学习重点。
+
+<!-- ## Executive Summary -->
+
+<!-- A Science Bachelor degree holder in economics & finance of Politics & Economic School, University of London. Experienced in tutoring & teaching English 1 on 1 by achieving clients' academic goals through personalised course programs. Producing & Proofreading academic English learning materials while keeping track of my clients' progresses and maintaining a good client dynamic. I was able to help clients get a 7.0 IELTS score. I am skillful in using Microsoft software including Word, Excel and Powerpoint to boost my productivity. Besides English, I am also procifient in Mandarin Chinese and Cantonese. -->
 
 ## 教育背景
 
 2015.09-2018.06 | **经济与金融学士** | 伦敦大学经济学院
 
-2013.10-2015.04 | **大专** | 新加坡经济管理学院
+2013.10-2015.04 | **工商管理大专** | 新加坡经济管理学院
+
+<!-- ## Education -->
+
+<!-- 2015.09-2018.06 | **B.S. in Economics & Finance** | University of London, United Kingdom -->
+
+<!-- 2013.10-2015.04 | **Diploma in Business Management** | Singapore Institute in Management, Singapore -->
 
 ## 工作经验
 
+<!-- ## Work Experience -->
+
 2024.03-2026.03 | 英语雅思教师
+
+<!-- 2024.03-2026.03 | **Online IELTS Tutor** -->
 
 - 为 IELTS Academic/General Training考生提供线上一对一及小班授课，覆盖听、说、读、写四项技能，并根据学生基础、目标分数和考试时间制定个性化学习计划。
 
@@ -39,9 +64,23 @@ site: distill::distill_website
 
 - 制作4套教学资源，使学生作业完成率达到95%，课程满意度达到4/5。
 
-2022.03-2023.11 | 跨境店铺运营 
+<!-- - Teaching students IELTS Academic / General Training online in private form or in small classes, covering English skills in listening, speaking, reading and writing. Customizing teaching plans for students according to their individuals' learning ability and speed. -->
+
+<!-- - Designing course programs and learning materials ranging from lecture notes, vocabulary sheets, grammar exercises, comprehension writing and oral mock exams. -->
+
+<!-- - Diagnosing students' capability in academic writing and speaking based on IELTS evaluation criteria and giving students critical feedback in order to improve their lexical accuracy, critical thinking capacity and grammatical cohesion. -->
+
+<!-- - Assisted no less than 25 students improve English level from **A1\~A2** to **B2\~C1**; 22 of them managed to score **2.0 to 2.5 higher on average**. -->
+
+<!-- - Produced 4 sets of learning materials while keeping a assessment completion rate at **95%** and **4 stars out of 5** in satisfactory level. -->
+
+2022.03-2023.11 | 跨境店铺运营
+
+<!-- 2022.03-2023.11 | **B2B Online Merchant Manager** -->
 
 ###### 广州乘风兄弟有限公司
+
+<!-- ###### Guangzhou Chengfeng Brother Co., Ltd. -->
 
 - 负责 B2B 跨境电商店铺日常运营，制作流量日报并监测曝光量、访问量、访客来源、转化率及广告投放表现。
 
@@ -57,9 +96,25 @@ site: distill::distill_website
 
 - 活动期间实现 单月累计曝光量15,000+，并将店铺整体转化率从**0.8%提升至2.5%**，相对提升约 212.5%。
 
+<!-- - Handling daily operation in online merchant by monitoring daily statistics in UV, PV, conversion rate and the rate of return in Google advertising.  -->
+
+<!-- - Maintaining current products' life cycle: accuracy improvement in product information, traffic keywords, product pages. -->
+
+<!-- - Building product databases for assisting sales department in offering quotation process and in turn improving conversion rate. -->
+
+<!-- - Designing & deploying merchant's landing page for promoting sales during company events' period / Alibaba events' period. -->
+
+<!-- - Managed to **boost the star rating** of the merchant to **3 stars from 0 stars**. -->
+
+<!-- - Achieved over 15000+ monthly unique views storewide and **increased 212.5%** in overall conversion rate to **2.5%** from 0.8% between ante-event & post-event period. -->
+
 2021.01-2022.07 | 英语教师
 
+<!-- 2021.01-2022.07 | **English Tutor** -->
+
 ###### 广州立贤教育培训中心
+
+<!-- ###### Guangzhou Lixian Education & Training Centre -->
 
 - 面向小学及初中学生及其家长开展学习需求分析，根据学生英语基础、年级和学习目标制定个性化课程方案。
 
@@ -75,15 +130,19 @@ site: distill::distill_website
 
 - 课程满意度调查取得**4.5/5**分 平均评级。
 
+<!-- - Designing & Customizing study plans in English for primary & secondary students.  -->
+
+<!-- - Editing and writing lecture notes / learning materials individually for students' in different school years accordingly. -->
+
+<!-- - Initiating mock exams and assigning students assessments in order to keeping a close eye on their learning progress. -->
+
+<!-- - Promoting my services to parents in the neighbourhood through the business expansion phase of the company. -->
+
+<!-- - Facilitated over **60** clients ranging from second graders to students in secondary 2 in achieving a **higher average score** of 90 from that of 70 before my services. -->
+
 ## 技能&能力
 
-```{r, global, echo=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-```{r, library}
-library(htmltools)
-```
+<!-- ## Skills -->
 
 ```{r, classes}
 skill_section <- ".skills-section {
@@ -211,9 +270,9 @@ tags$article(
     skill_section, skill_grid, skill_item, skill_name, progress_bar, progress_fill, progress_20, progress_40, progress_60, progress_80, progress_100, media
   ), 
   tags$div(class = "skills-grid", 
-           skillItem("普通话", 5),
+           skillItem("English", 5),
            skillItem("Microsoft Excel", 5), 
-           skillItem("英语", 5), 
+           skillItem("普通话", 5), 
            skillItem("Microsoft Word", 4), 
            skillItem("粤语", 5), 
            skillItem("Microsoft Powerpoint", 3))
